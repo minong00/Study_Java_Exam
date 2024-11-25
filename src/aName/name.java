@@ -1,4 +1,4 @@
-package Name;
+package aName;
 
 public class name {
 
