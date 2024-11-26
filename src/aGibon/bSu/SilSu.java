@@ -1,4 +1,4 @@
-package bSu;
+package aGibon.bSu;
 
 public class SilSu {
     public static void main(String[] args) {
