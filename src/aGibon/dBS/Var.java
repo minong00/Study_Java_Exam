@@ -1,4 +1,4 @@
-package dBS;
+package aGibon.dBS;
 
 public class Var {
     //var a = 1; 매서드 내부에서만 ㄱㄴ
