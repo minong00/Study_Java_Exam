@@ -1,4 +1,4 @@
-package cMunJa;
+package aGibon.cMunJa;
 
 public class Controll {
     public static void main(String[] args) {
