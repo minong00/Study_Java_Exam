@@ -1,4 +1,4 @@
-package bSu;
+package aGibon.bSu;
 
 public class JungSu {
     public static void main(String[] args) {
