@@ -1,4 +1,4 @@
-package aName;
+package aGibon.aName;
 
 public class name {
 
